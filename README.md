@@ -1,3 +1,5 @@
+**POWERBI SALES PERFORMANCE ANALYSIS PROJECT**
+
 This project is designed to give executives, stakeholders, and senior leadership a 360° view of sales performance, budget alignment, and year-on-year (YoY) trends; helping them make clearer, faster, and more confident decisions. 
 
 The workflow began with raw data moving through three key cleaning stages: manipulation, validation, and normalization, ensuring accuracy and consistency before any analysis. 
@@ -10,7 +12,7 @@ The solution is delivered through a focused two-page Power BI report:
 
 2.) Regional Analysis: a deeper dive into how different regions and channels are performing, and where opportunities or risks lie. 
 
-Key visuals and metrics include: 
+**Key Visuals and Metrics**
 
 i.) Store sales by product (gross profit) 
 ii.) Sales contribution by channel 
@@ -23,6 +25,6 @@ viii.) Interactive filters for region, product, and calendar month to support fl
 
 This project has significantly strengthened my skills in data cleaning, SQL querying, DAX modeling, and storytelling with Power BI, and has reinforced how well-designed dashboards can help business leaders see past the noise and focus on what truly matters. 
 
-A heartfelt thank you to Michael Oladapo Soetan for his guidance, mentorship, and support throughout this project. His teaching played a key role in deepening my data analysis capabilities. 
+A heartfelt thank you to ***Michael Oladapo Soetan*** for his guidance, mentorship, and support throughout this project. His teaching played a key role in deepening my data analysis capabilities. 
 
-If you’d like to see the report layout or discuss the approach, I’d be happy to connect and share more.
+*If you’d like to see the report layout or discuss the approach, I’d be happy to connect and share more.*
