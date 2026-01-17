@@ -7,8 +7,13 @@ This proiect simulates a real-world commercial sales analvtics engagement where 
 **Business Obiectives**
 
 The purpose of this proiect is to support commercial and strategic decision-making by answering key business questions such as:
-1.) Are we meeting our sales targets? • How does current performance compare to last vear? ◦ Which regions, stores, and channels are driving or dragging performance? ◦ Are sales changes driven by volume, price, or customer behaviour?
-Target Audience
+1.) Are we meeting our sales targets? 
+2.) How does current performance compare to last vear? 
+3.) Which regions, stores, and channels are driving or dragging performance? 
+4.) Are sales changes driven by volume, price, or customer behaviour?
+
+**Target Audience**
+
 2.) Executives & Senior Leadership
 3.) Regional & Store Managers
 4.) Commercial & Finance Teams
